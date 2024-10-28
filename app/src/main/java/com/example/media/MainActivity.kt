@@ -63,7 +63,7 @@ var AnimalsName= arrayListOf("鴨子","企鵝","青蛙","貓頭鷹","鯨魚","�
                 mper.reset()
                 mper = MediaPlayer.create(context, R.raw.tcyang)
                 mper.start()
-
+//123
             }) {
                 Text(text = "歡迎修課")
                 Image(
